@@ -60,7 +60,7 @@ jobs:
           exit 1
         }
 
-        Write-Output "=========================================="
+        Write-Output "========================================="
         Write-Output "||        RDP CONNECTION DETAILS        ||"
         Write-Output "========================================="
         Write-Output "Address: $tunnelUrl"
